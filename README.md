@@ -3,7 +3,7 @@ Users can chat together in this chat room.
 
 # Tchnonogy used
 ```
-Back-end : NodeJS, Express, socket.io
+Back-end : Back-end service designed by NodeJS, Express, socket.io
 ```
 
 ```
