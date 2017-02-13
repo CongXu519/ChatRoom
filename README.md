@@ -1,11 +1,13 @@
-## Chat Room
+# Chat Room
+Users can chat together in this chat room.
 
-   Its based in AngularJS、NodeJS、Express、socket.io
+# Tchnonogy used
+```
+Back-end : NodeJS, Express, socket.io
+```
 
-## How to use
-  
-   cd ChatRoom-AngularJS
-
-   npm install
-
-   node app.js
+```
+Front-end : AngularJS
+```
+# Demo
+A créer
