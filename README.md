@@ -10,4 +10,4 @@ Back-end : Back-end service designed by NodeJS, Express, socket.io
 Front-end : AngularJS
 ```
 # Demo
-A créer
+In the folder Demo
